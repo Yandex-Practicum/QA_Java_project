@@ -21,3 +21,4 @@ public class Alex extends Lion {
         return "Нью-Йоркский Зоопарк";
     }
 }
+//Тест
